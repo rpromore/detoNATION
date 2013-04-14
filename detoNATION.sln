@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "detoNATION", "detoNATION\detoNATION\detoNATION.csproj", "{3EBBF42C-E994-4CEF-9682-874A3A937E62}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "detoNATIONContent", "detoNATION\detoNATIONContent\detoNATIONContent.contentproj", "{77F493C6-117F-4B31-B55C-FC69C322EA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBBF42C-E994-4CEF-9682-874A3A937E62}.Debug|x86.ActiveCfg = Debug|x86
+		{3EBBF42C-E994-4CEF-9682-874A3A937E62}.Debug|x86.Build.0 = Debug|x86
+		{3EBBF42C-E994-4CEF-9682-874A3A937E62}.Release|x86.ActiveCfg = Release|x86
+		{3EBBF42C-E994-4CEF-9682-874A3A937E62}.Release|x86.Build.0 = Release|x86
+		{77F493C6-117F-4B31-B55C-FC69C322EA2B}.Debug|x86.ActiveCfg = Debug|x86
+		{77F493C6-117F-4B31-B55C-FC69C322EA2B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
